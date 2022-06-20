@@ -1,8 +1,8 @@
 
 ### Sup, my name is Misha and I'm a frontend developer
-I'm writing code on `js/ts` and time to time on `c#`
+I work on `js/ts` and time to time write code on `c#`
 
-It's interesting stuff i did in free time [`SyncPromise`](https://github.com/misbiheyv/SyncPromise)
+It's interesting stuff i did in free time [`SyncPromise`](https://github.com/misbiheyv/SyncPromise) [`IterableAPI`](https://github.com/misbiheyv/IterableAPI)
 
 
 
