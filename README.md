@@ -1,10 +1,8 @@
 
 ### Sup, my name is Misha and I'm a frontend developer
-I work on `js/ts` and time to time write code on `c#`
+I work on `js/ts` and time to time try to study Computer Science
 
-It's interesting stuff i did in free time [`iterators API`](https://github.com/misbiheyv/iter)
-
-
+It's some of interesting stuff i did in free time: [`ai buddy`](https://github.com/misbiheyv/intelli-buddy), [`iterators`](https://github.com/misbiheyv/iter)
 
 Sometimes i try issues on codewars:
 
